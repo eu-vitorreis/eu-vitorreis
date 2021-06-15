@@ -1,11 +1,15 @@
-### Hi there 👋
+### Olá a todos! 👋
 
-<!--
-**vitorreis-tech/vitorreis-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+  Eu sou o Vitor Augusto Matos e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Bragança Paulista. 
+  Estou aqui para adquirir mais conhecimento e contribuir com os projetos dos meus amigos e colegas de classe.
+  Aqui no meu Github você pode encontrar alguns projetos pessoais e tarefas da Faculdade que acabei fazendo.
+  
+  Sinta-se a vontade para me perguntar qualquer coisa, quem sabe eu possa te ajudar? 
+  
+  Se quiser me encontrar em outro lugar:
+  📷 [**Instagram**](https://www.instagram.com/vittorr_mattoss/)
+  ![Linkedin](https://images.app.goo.gl/r7NUtXDxaimVPx2U7)
+- I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
