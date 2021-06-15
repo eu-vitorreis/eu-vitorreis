@@ -8,7 +8,7 @@
   
   Se quiser me encontrar em outro lugar:
   * 📷 [**Instagram**](https://www.instagram.com/vittorr_mattoss/)
-  * <i class="fab fa-linkedin"></i>
+  * <i class="fab fa-linkedin"></i>https://fontawesome.com/v5.15/icons/linkedin?style=brands
   * ![**Linkedin**](https://images.app.goo.gl/r7NUtXDxaimVPx2U7)
 - I’m currently working on ...
 - 🌱 I’m currently learning ...
