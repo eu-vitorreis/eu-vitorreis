@@ -7,8 +7,9 @@
   Sinta-se a vontade para me perguntar qualquer coisa, quem sabe eu possa te ajudar? 
   
   Se quiser me encontrar em outro lugar:
-  📷 [**Instagram**](https://www.instagram.com/vittorr_mattoss/)
-  ![Linkedin](https://images.app.goo.gl/r7NUtXDxaimVPx2U7)
+  * 📷 [**Instagram**](https://www.instagram.com/vittorr_mattoss/)
+  * <i class="fab fa-linkedin"></i>
+  * ![**Linkedin**](https://images.app.goo.gl/r7NUtXDxaimVPx2U7)
 - I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
