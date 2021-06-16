@@ -1,12 +1,13 @@
 ### Olá a todos! 👋
 
-  ◾ Eu sou o Vitor Augusto Matos Reis e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Bragança Paulista. 
+  🔸 Eu sou o Vitor Augusto Matos Reis e atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Bragança Paulista. 
   Estou aqui para adquirir mais conhecimento e contribuir com os projetos dos meus amigos e colegas de classe.
   Aqui no meu Github você pode encontrar alguns projetos pessoais e tarefas da Faculdade que faço.
   
-  ◾ Sinta-se a vontade para me perguntar qualquer coisa, quem sabe eu possa te ajudar? 😃
+  🔸 Sinta-se a vontade para me perguntar qualquer coisa, quem sabe eu possa te ajudar? 😃
   
-  Se quiser me encontrar em outro lugar:
+  🔸 Se quiser me encontrar em outro lugar:
+  
   
    [![**Instagram**](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vittorr_mattoss/)
    [![**Facebook**](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vitor.am.reis)
